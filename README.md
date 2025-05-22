@@ -27,14 +27,6 @@ Este projeto é um site moderno e responsivo criado para uma cervejaria artesana
 
 - **Python:** Como um mestre cervejeiro paciente e detalhista, Python é simples, eficiente e faz tudo funcionar nos bastidores do seu site.
 
-- **PHP:**  PHP para gerenciar facilmente a carta de cervejas e manter tudo atualizado, como um sommelier que sabe tudo sobre cada rótulo.
-
-- **Java:** Para quem quer algo robusto, confiável e preparado para crescer, Java é como uma receita tradicional que nunca sai de moda.
-
-## E claro, o banco de dados:
-
-- **SQL:** A biblioteca onde ficam guardadas todas as informações importantes, desde os ingredientes das receitas até os contatos dos clientes apaixonados.
-
 
 ## Como Usar
 
