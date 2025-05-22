@@ -1,0 +1,1 @@
+## python será apenas usado para mandar emails de forma automática.
